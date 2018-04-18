@@ -1,0 +1,7 @@
+{
+	"trigger": "item",
+	"textStyle": {
+		"color": "#fff",
+		"fontSize": 12
+	}
+}

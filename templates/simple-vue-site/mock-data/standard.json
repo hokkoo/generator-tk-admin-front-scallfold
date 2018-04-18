@@ -1,0 +1,81 @@
+{
+	"/api/standard": {
+		"code": 0,
+		"msg": "",
+		"data": [
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/521/940/6188049125_1122671282.jpg",
+				"title": "",
+				"sort": 0
+			},
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/856/625/6196526658_1122671282.jpg",
+				"title": "",
+				"sort": 1
+			},
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/350/146/6194641053_1122671282.jpg",
+				"title": "",
+				"sort": 2
+			}
+		]
+	},
+	"/api/measure-procedure": {
+		"code": 0,
+		"msg": "",
+		"data": [
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/521/940/6188049125_1122671282.jpg",
+				"title": "",
+				"sort": 0
+			},
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/856/625/6196526658_1122671282.jpg",
+				"title": "",
+				"sort": 1
+			},
+			{
+				"src": "https://cbu01.alicdn.com/img/ibank/2017/350/146/6194641053_1122671282.jpg",
+				"title": "",
+				"sort": 2
+			}
+		]
+	},
+	"/api/certification": {
+		"code": 0,
+		"msg": "",
+		"data": [
+			{
+				"src": "https://img.alicdn.com/imgextra/i2/1710106061550956764/TB2h4pUs90jpuFjy0FlXXc0bpXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 0
+			},
+			{
+				"src": "https://img.alicdn.com/imgextra/i2/1710106061413241350/TB2cd4Eb_AKh1JjSZFDXXbKlFXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 1
+			},
+			{
+				"src": "https://img.alicdn.com/imgextra/i1/1710106061173267208/TB2D8xcs4XkpuFjy0FiXXbUfFXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 2
+			},
+			{
+				"src": "https://img.alicdn.com/imgextra/i1/1710106061310713658/TB2HlAYwypnpuFjSZFIXXXh2VXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 3
+			},
+			{
+				"src": "https://img.alicdn.com/imgextra/i2/1710106061550956764/TB2h4pUs90jpuFjy0FlXXc0bpXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 4
+			},
+			{
+				"src": "https://img.alicdn.com/imgextra/i4/1710106061189908103/TB2JDw8sNdkpuFjy0FbXXaNnpXa_!!0-av-auth-doc.jpg",
+				"title": "",
+				"sort": 5
+			}
+			
+		]
+	}
+}

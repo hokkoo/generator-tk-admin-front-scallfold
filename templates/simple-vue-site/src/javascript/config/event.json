@@ -1,0 +1,80 @@
+{
+	"base": {
+		"click": "click",
+		"hover": "hover",
+		"dbclick": "dbclick",
+		"show": "show",
+		"hide": "hide"
+	},
+	"success": "success",
+	"error": "error",
+	"show": "show",
+	"hide": "hide",
+	"cancel": "cancel",
+	"fail": "fail",
+	"trigger": {
+		"text": {
+			"click": "trigger-text-click"
+		}
+	},
+	"sort": {
+		"sort": "sort-sort",
+		"up": "sort-up",
+		"down": "sort-down",
+		"toggle": "sort-toggle"
+	},
+	"param": {
+		"change": "param-change"
+	},
+	"select": {
+		"change": "select-change"
+	},
+	"pager": {
+		"prev": "pager-prev",
+		"next": "pager-next",
+		"goto": "pager-goto"
+	},
+	"multileSelectPanel": {
+		"change": "multiple-select-panel-change",
+		"left": {
+			"goto": "multiple-select-panel-left-goto"
+		},
+		"right": {
+			"goto": "multiple-select-panel-right-goto"
+		}
+	},
+	"select": {
+		"change": "select-change",
+		"all": "select-all",
+		"none": "select-none"
+	},
+	"countdown": {
+		"before": "countdown-before",
+		"start": "countdown-start",
+		"stop": "countdown-stop",
+		"retry": "countdown-retry"
+	},
+	"modal": {
+		"done": "modal-done",
+		"undo": "modal-undo",
+		"close": "modal-close",
+		"open": "modal-open",
+		"changeTitle": "modal-change-title"
+	},
+	"search": {
+		"sku": "search-sku"
+	},
+	"sku": {
+		"select": "sku-select"
+	},
+	"upload": {
+		"success": "upload-success"
+	},
+	"script": {
+		"success": "script-success",
+		"error": "script-error"
+	},
+	"resetPwd": {
+		"reSendEmail": "reset-pwd-re-send-email"
+	}
+}
